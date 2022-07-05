@@ -32,7 +32,9 @@ The core idea of "Layers" is that one key can be used for different actions. For
 
 ## Firmware Updates
 
-Firmware updates for the Launch are handled using [fwupd](https://fwupd.org/) and our <u>Firmware Manager</u> can be used to apply the update. When you get a notification about a firmware update, you will need to unlock the keyboard using Fn+Esc (**Note:** that these will be the default keys even if you remapped them in the Keyboard Configurator) before you can apply the update. When the keyboard is unlocked, you will see the following keys light up:
+Firmware updates for the Launch are handled using [fwupd](https://fwupd.org/) and our <u>Firmware Manager</u> can be used to apply the update. When you get a notification about a firmware update, you will need to unlock the keyboard using Fn+Esc before you can apply the update. When the keyboard is unlocked, you will see the following keys light up:
+
+**Note:** that the keys used to unlock the keyboard can change if you remapped them in the Keyboard Configurator. For example if you move the Reset function to Del on Layer 2 then you would press Fn+Del to access this mode. 
 
 - U N L O C K E D
 
